@@ -1,0 +1,18 @@
+{
+  "SourcePath": "D:\\Working\\Watcher",
+  "SupportedExtensions": ".txt",
+  "AI_Middleware_URL": "https://aimiddleware-uat.pathpresenter.net/api/AIBack/SaveDeepliifCallback",
+  "Org_Id": "16",
+  "Ai_Model_Id": "ADA31BE8-BA4A-4A10-9202-8629A676F2F3",
+  "Annotation_Server_Url": "http://10.255.118.142",
+  "Call_Back_Url": "https://uat-backend2.pathpresenterdx.com/api/v1/slidebox/ai/results/sync",
+  "FilePickupByDayBefore": 1000,
+  "ScanInterval": 30,
+  "MountedForPath": "\\\\pesgisipth\\testpathpresenter\\pathpresenter",
+  "OutputResultPath": "/mnt/shared",
+  "Intial": {
+    "InitializeJson": false,
+    "CleanupOldEntries": false,
+    "DaysToKeep": 3
+  }
+}
