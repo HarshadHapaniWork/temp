@@ -6,6 +6,6 @@
   "fileScanWrapper": {
     "sourcePath": "D:/Working/Watcher",
     "filePickupByDayBefore": 2,
-    "supportedExtensions": [".mld"]
+    "supportedExtensions": []
   }
 }
