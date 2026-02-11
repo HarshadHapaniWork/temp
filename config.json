@@ -4,7 +4,7 @@
   "scanIntervalSeconds": 2,
   "aiModelCode": "VISIOPHARM",
   "fileScanWrapper": {
-    "sourcePath": "D:/Working/Watcher",
+    "sourcePath": "D:\\Working\\Watcher",
     "filePickupByDayBefore": 2,
     "supportedExtensions": []
   }
