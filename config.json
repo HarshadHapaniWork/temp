@@ -2,5 +2,10 @@
   "OrgId": "16",
   "fileScanService": true,
   "scanIntervalSeconds": 2,
-  "aiModelCode": "VISIOPHARM"
+  "aiModelCode": "VISIOPHARM",
+  "fileScanWrapper": {
+    "sourcePath": "D:\Working\Watcher",
+    "filePickupByDayBefore": 2,
+    "supportedExtensions": []
+  }
 }
