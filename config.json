@@ -1,5 +1,5 @@
 {
-  "OrgId": "16",
+  "orgId": "16",
   "fileScanService": true,
   "scanIntervalSeconds": 2,
   "aiModelCode": "VISIOPHARM",
